@@ -10,6 +10,9 @@ declare global {
       saveFavorites: (favorites: any[]) => Promise<boolean>;
       getCalendarMarks: () => Promise<Record<string, boolean>>;
       saveCalendarMarks: (marks: Record<string, boolean>) => Promise<boolean>;
+      getRunningData: () => Promise<any[]>;
+      saveRunningData: (records: any[]) => Promise<{ backupPath?: string }>;
+      analyzeRunningImage: (payload: { imageBase64: string }) => Promise<{ records: any[]; rawText: string }>;
     };
   }
 }

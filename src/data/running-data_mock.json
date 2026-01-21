@@ -1,0 +1,324 @@
+[
+  {
+    "date": "2024-01-05",
+    "distance": 10.0,
+    "cadence": 161,
+    "heartRate": 134,
+    "pace": 5.9
+  },
+  {
+    "date": "2024-01-12",
+    "distance": 11.1,
+    "cadence": 180,
+    "heartRate": 165,
+    "pace": 5.5
+  },
+  {
+    "date": "2024-01-20",
+    "distance": 7.6,
+    "cadence": 161,
+    "heartRate": 131,
+    "pace": 6.7
+  },
+  {
+    "date": "2024-02-03",
+    "distance": 3.3,
+    "cadence": 166,
+    "heartRate": 152,
+    "pace": 6.8
+  },
+  {
+    "date": "2024-02-10",
+    "distance": 5.4,
+    "cadence": 178,
+    "heartRate": 160,
+    "pace": 5.3
+  },
+  {
+    "date": "2024-02-18",
+    "distance": 11.9,
+    "cadence": 181,
+    "heartRate": 137,
+    "pace": 5.7
+  },
+  {
+    "date": "2024-02-25",
+    "distance": 13.5,
+    "cadence": 170,
+    "heartRate": 125,
+    "pace": 5.6
+  },
+  {
+    "date": "2024-03-05",
+    "distance": 12.3,
+    "cadence": 178,
+    "heartRate": 160,
+    "pace": 7.3
+  },
+  {
+    "date": "2024-03-12",
+    "distance": 8.9,
+    "cadence": 189,
+    "heartRate": 139,
+    "pace": 6.8
+  },
+  {
+    "date": "2024-03-20",
+    "distance": 12.1,
+    "cadence": 179,
+    "heartRate": 163,
+    "pace": 6.9
+  },
+  {
+    "date": "2024-03-28",
+    "distance": 10.8,
+    "cadence": 161,
+    "heartRate": 131,
+    "pace": 6.1
+  },
+  {
+    "date": "2024-04-05",
+    "distance": 3.9,
+    "cadence": 167,
+    "heartRate": 125,
+    "pace": 6.1
+  },
+  {
+    "date": "2024-04-12",
+    "distance": 10.0,
+    "cadence": 171,
+    "heartRate": 139,
+    "pace": 5.9
+  },
+  {
+    "date": "2024-04-20",
+    "distance": 5.9,
+    "cadence": 188,
+    "heartRate": 152,
+    "pace": 6.9
+  },
+  {
+    "date": "2024-05-03",
+    "distance": 4.9,
+    "cadence": 182,
+    "heartRate": 128,
+    "pace": 6.3
+  },
+  {
+    "date": "2024-05-10",
+    "distance": 13.9,
+    "cadence": 179,
+    "heartRate": 148,
+    "pace": 7.1
+  },
+  {
+    "date": "2024-05-18",
+    "distance": 12.3,
+    "cadence": 183,
+    "heartRate": 131,
+    "pace": 5.4
+  },
+  {
+    "date": "2024-05-25",
+    "distance": 6.5,
+    "cadence": 168,
+    "heartRate": 131,
+    "pace": 7.8
+  },
+  {
+    "date": "2024-06-05",
+    "distance": 12.6,
+    "cadence": 169,
+    "heartRate": 153,
+    "pace": 6.4
+  },
+  {
+    "date": "2024-06-12",
+    "distance": 13.1,
+    "cadence": 174,
+    "heartRate": 133,
+    "pace": 6.0
+  },
+  {
+    "date": "2024-06-20",
+    "distance": 9.2,
+    "cadence": 168,
+    "heartRate": 149,
+    "pace": 7.7
+  },
+  {
+    "date": "2024-06-28",
+    "distance": 7.4,
+    "cadence": 167,
+    "heartRate": 170,
+    "pace": 6.7
+  },
+  {
+    "date": "2024-07-05",
+    "distance": 4.0,
+    "cadence": 161,
+    "heartRate": 125,
+    "pace": 7.0
+  },
+  {
+    "date": "2024-07-12",
+    "distance": 11.7,
+    "cadence": 173,
+    "heartRate": 123,
+    "pace": 6.3
+  },
+  {
+    "date": "2024-07-20",
+    "distance": 14.0,
+    "cadence": 176,
+    "heartRate": 169,
+    "pace": 7.6
+  },
+  {
+    "date": "2024-07-28",
+    "distance": 3.1,
+    "cadence": 182,
+    "heartRate": 154,
+    "pace": 6.7
+  },
+  {
+    "date": "2024-08-05",
+    "distance": 5.9,
+    "cadence": 179,
+    "heartRate": 126,
+    "pace": 6.5
+  },
+  {
+    "date": "2024-08-12",
+    "distance": 8.0,
+    "cadence": 189,
+    "heartRate": 164,
+    "pace": 6.0
+  },
+  {
+    "date": "2024-08-20",
+    "distance": 8.5,
+    "cadence": 165,
+    "heartRate": 166,
+    "pace": 7.7
+  },
+  {
+    "date": "2024-08-28",
+    "distance": 6.3,
+    "cadence": 179,
+    "heartRate": 150,
+    "pace": 5.7
+  },
+  {
+    "date": "2024-09-05",
+    "distance": 11.4,
+    "cadence": 176,
+    "heartRate": 159,
+    "pace": 6.7
+  },
+  {
+    "date": "2024-09-12",
+    "distance": 3.0,
+    "cadence": 170,
+    "heartRate": 121,
+    "pace": 7.8
+  },
+  {
+    "date": "2024-09-20",
+    "distance": 12.7,
+    "cadence": 185,
+    "heartRate": 135,
+    "pace": 5.5
+  },
+  {
+    "date": "2024-09-28",
+    "distance": 12.7,
+    "cadence": 188,
+    "heartRate": 124,
+    "pace": 6.6
+  },
+  {
+    "date": "2024-10-05",
+    "distance": 3.8,
+    "cadence": 183,
+    "heartRate": 158,
+    "pace": 5.6
+  },
+  {
+    "date": "2024-10-12",
+    "distance": 8.2,
+    "cadence": 176,
+    "heartRate": 133,
+    "pace": 7.7
+  },
+  {
+    "date": "2024-10-20",
+    "distance": 7.7,
+    "cadence": 166,
+    "heartRate": 147,
+    "pace": 7.3
+  },
+  {
+    "date": "2024-10-28",
+    "distance": 5.2,
+    "cadence": 169,
+    "heartRate": 170,
+    "pace": 7.1
+  },
+  {
+    "date": "2024-11-05",
+    "distance": 7.8,
+    "cadence": 176,
+    "heartRate": 126,
+    "pace": 5.9
+  },
+  {
+    "date": "2024-11-12",
+    "distance": 6.7,
+    "cadence": 178,
+    "heartRate": 132,
+    "pace": 5.9
+  },
+  {
+    "date": "2024-11-20",
+    "distance": 3.8,
+    "cadence": 179,
+    "heartRate": 131,
+    "pace": 7.7
+  },
+  {
+    "date": "2024-11-28",
+    "distance": 12.5,
+    "cadence": 162,
+    "heartRate": 132,
+    "pace": 7.1
+  },
+  {
+    "date": "2024-12-05",
+    "distance": 5.4,
+    "cadence": 164,
+    "heartRate": 167,
+    "pace": 6.8
+  },
+  {
+    "date": "2024-12-12",
+    "distance": 8.2,
+    "cadence": 184,
+    "heartRate": 160,
+    "pace": 5.8
+  },
+  {
+    "date": "2024-12-20",
+    "distance": 4.1,
+    "cadence": 173,
+    "heartRate": 141,
+    "pace": 6.6
+  },
+  {
+    "date": "2024-12-28",
+    "distance": 11.0,
+    "cadence": 180,
+    "heartRate": 169,
+    "pace": 5.6
+  }
+]
