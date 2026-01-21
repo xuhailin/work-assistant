@@ -1,6 +1,7 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory, createWebHistory } from 'vue-router'
 import HomePage from '../components/HomePage.vue'
 import GitLogs from '../components/GitLogs.vue'
+import RunningStats from '../components/RunningStats.vue'
 
 const routes = [
   {
@@ -13,11 +14,16 @@ const routes = [
     name: 'GitLogs',
     component: GitLogs,
     props: true
+  },
+  {
+    path: '/running',
+    name: 'RunningStats',
+    component: RunningStats
   }
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(), // hash模式，#xxx，这样路由能正常工作
   routes
 })
 

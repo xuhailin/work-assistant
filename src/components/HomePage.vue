@@ -28,6 +28,29 @@
       </div>
     </div>
 
+    <!-- 跑步统计面板 -->
+    <div class="bg-white rounded-lg shadow-lg p-6 mb-8 hover:shadow-xl transition-shadow duration-300 cursor-pointer" 
+         @click="goToRunningStats">
+      <div class="flex items-center justify-between">
+        <div class="flex items-center space-x-4">
+          <div class="bg-red-100 p-3 rounded-full">
+            <svg class="w-8 h-8 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+            </svg>
+          </div>
+          <div>
+            <h3 class="text-xl font-semibold text-gray-800">🏃 跑步统计</h3>
+            <p class="text-gray-600">查看和分析你的跑步数据</p>
+          </div>
+        </div>
+        <div class="text-gray-400">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+          </svg>
+        </div>
+      </div>
+    </div>
+
     <!-- 其他工具面板可以在这里添加 -->
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
       <!-- 占位符面板 -->
@@ -84,5 +107,9 @@ const router = useRouter()
 
 function goToGitLogs() {
   router.push('/gitlogs')
+}
+
+function goToRunningStats() {
+  router.push('/running')
 }
 </script>

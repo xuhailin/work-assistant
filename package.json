@@ -11,16 +11,15 @@
     "build": {
         "appId": "com.xuhailin.workassistant",
         "mac": {
-          "target": "dmg",
-          "category": "public.app-category.productivity"
+            "target": "dmg",
+            "category": "public.app-category.productivity"
         },
         "files": [
-          "dist/**",
-          "main.js",
-          "preload.js",
-          "package.json"
+            "dist/**",
+            "electron/**",
+            "package.json"
         ]
-      },
+    },
     "devDependencies": {
         "@vitejs/plugin-vue": "^5.0.0",
         "autoprefixer": "^10.4.0",
@@ -36,6 +35,7 @@
         "wait-on": "^7.0.1"
     },
     "dependencies": {
+        "echarts": "^6.0.0",
         "vue-router": "^4.5.1"
     }
 }
