@@ -3,6 +3,7 @@
     <div class="text-center mb-8">
       <h1 class="text-4xl font-bold text-gray-800 mb-4">🚀 我的效率工具</h1>
       <p class="text-gray-600">提升工作效率的智能助手</p>
+      <p class="text-sm text-gray-500 mt-2">📅 {{ todayDate }}</p>
     </div>
 
     <!-- Git 提交记录小面板 -->
@@ -102,8 +103,18 @@
 
 <script setup lang="ts">
 import { useRouter } from 'vue-router'
+import { computed } from 'vue'
 
 const router = useRouter()
+
+// 获取今日日期（手动格式化，不使用工具函数）
+const todayDate = computed(() => {
+  const today = new Date()
+  const year = today.getFullYear()
+  const month = String(today.getMonth() + 1).padStart(2, '0')
+  const day = String(today.getDate()).padStart(2, '0')
+  return `${year}-${month}-${day}`
+})
 
 function goToGitLogs() {
   router.push('/gitlogs')
